@@ -1,0 +1,14 @@
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\Labb1\ConsoleLabb1\bin\Debug\net8.0\ConsoleLabb1.exe
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\Labb1\ConsoleLabb1\bin\Debug\net8.0\ConsoleLabb1.deps.json
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\Labb1\ConsoleLabb1\bin\Debug\net8.0\ConsoleLabb1.runtimeconfig.json
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\Labb1\ConsoleLabb1\bin\Debug\net8.0\ConsoleLabb1.dll
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\Labb1\ConsoleLabb1\bin\Debug\net8.0\ConsoleLabb1.pdb
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\Labb1\ConsoleLabb1\obj\Debug\net8.0\ConsoleLabb1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\Labb1\ConsoleLabb1\obj\Debug\net8.0\ConsoleLabb1.AssemblyInfoInputs.cache
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\Labb1\ConsoleLabb1\obj\Debug\net8.0\ConsoleLabb1.AssemblyInfo.cs
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\Labb1\ConsoleLabb1\obj\Debug\net8.0\ConsoleLabb1.csproj.CoreCompileInputs.cache
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\Labb1\ConsoleLabb1\obj\Debug\net8.0\ConsoleLabb1.dll
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\Labb1\ConsoleLabb1\obj\Debug\net8.0\refint\ConsoleLabb1.dll
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\Labb1\ConsoleLabb1\obj\Debug\net8.0\ConsoleLabb1.pdb
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\Labb1\ConsoleLabb1\obj\Debug\net8.0\ConsoleLabb1.genruntimeconfig.cache
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\Labb1\ConsoleLabb1\obj\Debug\net8.0\ref\ConsoleLabb1.dll
