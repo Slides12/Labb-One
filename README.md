@@ -42,7 +42,7 @@ Total = 5836428677242
 
 
 -----------------------------------
-### Ducks are important. Here's one.
+### Ducks are important. Here's yours.
 
 
 <picture>
