@@ -22,9 +22,9 @@ for (int i = 0; i < userInput.Length; i++)
             if (k >= i && k <= userInput.IndexOf(userInput[i], i + 1))          // k>= i börja på userInput[i] om k är mindre OCH index userInput[i] (bokstaven på denna plats) efter index i +1, dvs kolla inte med userInput[i] utan nästa bokstav i ledet.
             {
                 tempString += string.Join("", userInput[k]);                    // Bygg en temporär string med värdena som är mellan första och nästakommande värde
-
-                if (tempString.All(char.IsDigit))
-                {                             //Om alla värden i tempString är siffror, så är stringen giltlig.
+                 
+                if (tempString.All(char.IsDigit))                               //Om alla värden i tempString är siffror, så är stringen giltlig.
+                {                            
                     isMoreThenOneCharacter = true;
 
                 }
