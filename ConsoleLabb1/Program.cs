@@ -2,6 +2,7 @@
 
 
 // User interaction 
+Console.WriteLine("VARIANT 1 UTAN FUNKTIONER.");
 Console.WriteLine("Skriv en valfri sträng: ");
 string userInput = Console.ReadLine();
 Console.WriteLine();
@@ -84,7 +85,9 @@ for (int i = 0; i < userInput.Length; i++)
 
 
 // Variant 2  MED FUNKTIONER
+Console.WriteLine();
 
+Console.WriteLine("VARIANT 2 MED FUNKTIONER.");
 
 // User interaction
 Console.WriteLine("Skriv en valfri sträng: ");
