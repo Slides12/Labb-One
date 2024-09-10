@@ -41,11 +41,3 @@ Total = 5836428677242
 
 
 
------------------------------------
-### Ducks are important. Here's yours.
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="PixelDuck.png">
-  <img alt="PixelDuckling." >
-</picture>
